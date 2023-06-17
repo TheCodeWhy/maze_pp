@@ -1,0 +1,25 @@
+body{
+    background-color: #f2f2f2;
+}
+.group1{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+#t{
+    display: inline;
+    font-size: 20px;
+    vertical-align: middle;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#img1{
+    width: 100px;
+    height: auto;
+    vertical-align: middle;
+}
+.text{
+    margin-left: 20px;
+}
+.txt{
+    margin-left: 10;
+    font-size: 25px;
+}
