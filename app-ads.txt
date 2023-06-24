@@ -1,0 +1,3 @@
+#App-ads.txt file for Maze
+google.com, pub-9675282461511574, DIRECT, f08c47fec0942fa0
+
